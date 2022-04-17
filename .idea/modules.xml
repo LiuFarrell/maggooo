@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maggooo.iml" filepath="$PROJECT_DIR$/maggooo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maggooomonitor/maggooo-monitor.iml" filepath="$PROJECT_DIR$/maggooomonitor/maggooo-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maggoooadmin/maggoooadmin.iml" filepath="$PROJECT_DIR$/maggoooadmin/maggoooadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maggooocommon/maggooocommon.iml" filepath="$PROJECT_DIR$/maggooocommon/maggooocommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/maggoooconsumer.iml" filepath="$PROJECT_DIR$/../maggooo/maggoooconsumer/maggoooconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maggooocore/maggooocore.iml" filepath="$PROJECT_DIR$/maggooocore/maggooocore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maggooo/maggoooproducer/maggoooproducer.iml" filepath="$PROJECT_DIR$/../maggooo/maggoooproducer/maggoooproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maggooo/maggooozuul/maggooozuul.iml" filepath="$PROJECT_DIR$/../maggooo/maggooozuul/maggooozuul.iml" />
+    </modules>
+  </component>
+</project>

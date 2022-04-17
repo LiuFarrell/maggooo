@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maggooo-monitor" />
+        <module name="maggoooadmin" />
+        <module name="maggooocommon" />
+        <module name="maggoooconsumer" />
+        <module name="maggooocore" />
+        <module name="maggoooproducer" />
+        <module name="maggooozuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maggooo" target="1.8" />
+      <module name="maggooo-monitor" target="1.8" />
+      <module name="maggoooadmin" target="1.8" />
+      <module name="maggooocommon" target="1.8" />
+      <module name="maggoooconsumer" target="1.7" />
+      <module name="maggooocore" target="1.8" />
+      <module name="maggooomonitor" target="1.8" />
+      <module name="maggoooproducer" target="1.7" />
+      <module name="maggooozuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
