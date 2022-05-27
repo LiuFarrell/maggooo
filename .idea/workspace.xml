@@ -1,346 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e41e1f-1c8c-411b-87ed-ea9940d26ca2" name="Default" comment="maggooo项目，手把手做权限管理系统。">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/dataSources/6742b2d5-dd73-475f-9e30-bcbcc24bb77c.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_github_openfeign_feign_core_10_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_micrometer_micrometer_core_1_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_buffer_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_handler_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_resolver_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_transport_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_70_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_55.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_55.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_55.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_discovery_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_test_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_tx_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/maggoooadmin.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/MaggoooAdminApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/CorsConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/DruidConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/DruidDataSourceProperties.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/KaptchaConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/MybatisConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/SwaggerConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/config/WebSecurityConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/SysLoginController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/user/SysUserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysDeptMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysDictMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysMenuMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysRoleDeptMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysRoleMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysRoleMenuMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysUserMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysUserRoleMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysDeptExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysDictExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysMenuExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysRoleDeptExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysRoleExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysRoleMenuExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysUserExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysUserRoleExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysDept.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysDict.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysMenu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysRole.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysRoleDept.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysRoleMenu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysUserRole.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/GrantedAuthorityImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticatioToken.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticationFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticationProvider.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtUserDetails.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/UserDetailsServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/SysUserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/impl/SysUserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/JwtTokenUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/PasswordEncoder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/PasswordUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/SecurityUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/vo/LoginBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysDeptMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysDictMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysMenuMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysRoleDeptMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysRoleMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysRoleMenuMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysUserMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysUserRoleMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/generatorConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooadmin/src/test/java/com/louis/maggooo/admin/MaggoooAdminApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocommon/maggooocommon.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocommon/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocommon/src/main/java/com/louis/maggooo/common/MaggoooCommonApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocommon/src/main/java/com/louis/maggooo/common/utils/ReflectionUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocommon/src/test/java/com/louis/maggooo/common/MaggoooCommonApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/maggoooconsumer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/FeignServiceController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/RibbonServiceController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/ServiceController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/MaggooProducerService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/impl/MaggoooProducerHystrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/test/java/com/louis/MaggoooConsumerApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/maggooocore.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/MaggoooCoreApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/exception/MangoException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/http/HttpResult.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/http/HttpStatus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/page/MybatisPageHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/page/PageRequest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/page/PageResult.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/main/java/com/louis/maggooo/core/service/CurdService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooocore/src/test/java/com/louis/maggooo/core/MaggoooCoreApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/maggooo-monitor.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/maggooomonitor.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/java/com/louis/MaggoooMonitorApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/resources/banner.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooomonitor/src/test/java/com/louis/MaggoooMonitorApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/maggoooproducer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/HelloController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggoooproducer/src/test/java/com/louis/MaggoooProducerApplicationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooozuul/maggooozuul.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooozuul/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/maggooozuul/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/src/main/java/cn/xx/logs/debug.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/src/main/java/cn/xx/logs/error.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/src/main/java/cn/xx/logs/info.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../maggooo/src/main/java/cn/xx/logs/warn.log" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/menu/SysMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/menu/SysMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/menu/impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/vo/MenuTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_axet_kaptcha_0_0_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_70_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_70_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_3_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_3_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_3_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_3_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_3_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_discovery_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_discovery_3_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_3_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_3_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggooo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maggooo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/maggoooadmin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maggoooadmin/maggoooadmin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/dao/SysMenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/example/SysMenuExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/SecurityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/SecurityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/resources/com/louis/maggooo/admin/mapper/SysMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggoooadmin/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maggoooadmin/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggooocommon/maggooocommon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maggooocommon/maggooocommon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggooocore/maggooocore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maggooocore/maggooocore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maggooomonitor/maggooo-monitor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maggooomonitor/maggooo-monitor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xx/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xx/logs/debug.log" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/maggoooadmin/target/" />
-    <ignored path="$PROJECT_DIR$/maggooocommon/target/" />
-    <ignored path="$PROJECT_DIR$/maggooocore/target/" />
-    <ignored path="$PROJECT_DIR$/maggooomonitor/target/" />
-    <ignored path="$PROJECT_DIR$/../maggooo/maggoooproducer/target/" />
-    <ignored path="$PROJECT_DIR$/../maggooo/maggoooconsumer/target/" />
-    <ignored path="$PROJECT_DIR$/../maggooo/maggooozuul/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -379,121 +270,6 @@
     </expand>
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaggoooProducerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaggoooZuulApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/src/main/resources/application.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaggoooConsumerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="112" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/resources/application.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -514,7 +290,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../maggooo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -551,30 +327,30 @@
         <option value="$PROJECT_DIR$/maggooomonitor/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/maggooomonitor/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/java/com/louis/MaggoooMonitorApplication.java" />
-        <option value="$PROJECT_DIR$/../maggooo/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooomonitor/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooadmin/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooproducer/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/MaggoooAdminApplication.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/ServiceController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/RebbonHelloController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/RibbonHelloController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/RibbonServiceController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/impl/MaggoooProducerHystrix.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/FeignServiceController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/MaggooProducerService.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/pom.xml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooozuul/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/../maggooo/maggooozuul/pom.xml" />
+        <option value="$PROJECT_DIR$/maggooomonitor/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/maggooomonitor/src/main/java/com/louis/MaggoooMonitorApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/maggooomonitor/pom.xml" />
+        <option value="$PROJECT_DIR$/maggoooadmin/pom.xml" />
+        <option value="$PROJECT_DIR$/maggoooproducer/pom.xml" />
+        <option value="$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java" />
+        <option value="$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/MaggoooAdminApplication.java" />
+        <option value="$PROJECT_DIR$/maggoooadmin/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/ServiceController.java" />
+        <option value="$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/controller/RebbonHelloController.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/RibbonHelloController.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/RibbonServiceController.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/service/impl/MaggoooProducerHystrix.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/FeignServiceController.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/service/MaggooProducerService.java" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/maggoooconsumer/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/maggoooproducer/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java" />
+        <option value="$PROJECT_DIR$/maggooozuul/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/maggooozuul/pom.xml" />
       </list>
     </option>
   </component>
@@ -584,18 +360,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\repository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="D:\Liu\apache-maven-3.3.9-bin\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="D:/Liu/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Liu\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -662,6 +436,7 @@
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
+  <component name="ProjectId" id="28giLgFCh1m8irInCSpTn9VhRaP" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -810,35 +585,30 @@
       <pane id="AndroidView" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maggooo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.louis.maggooo.admin" />
-      <recent name="com.louis.maggooo.common" />
-      <recent name="com.louis.maggooo.core" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\maggooo\maggoooadmin\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.louis.maggooo.admin" />
+      <recent name="com.louis.maggooo.common" />
+      <recent name="com.louis.maggooo.core" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -847,19 +617,8 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-    <option name="contentProportion" value="0.2284153" />
   </component>
-  <component name="RunManager" selected="Spring Boot.MaggoooZuulApplication">
+  <component name="RunManager" selected="Application.MaggoooAdminApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -867,79 +626,60 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+    <configuration name="MaggoooAdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.louis.maggooo.admin.MaggoooAdminApplication" />
+      <module name="maggoooadmin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration name="MaggoooAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.louis.maggooo.admin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.maggooo.admin.MaggoooAdminApplication" />
-      <module name="maggoooadmin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="MaggoooConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.louis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.MaggoooConsumerApplication" />
+    <configuration name="MaggoooConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.louis.MaggoooConsumerApplication" />
       <module name="maggoooconsumer" />
-      <envs />
-    </configuration>
-    <configuration name="MaggoooMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.louis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.MaggoooMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaggoooMonitorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.louis.MaggoooMonitorApplication" />
       <module name="maggooo-monitor" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MaggoooProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -964,59 +704,38 @@
       <module name="maggooozuul" />
       <envs />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.MaggoooAdminApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.MaggoooMonitorApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.MaggoooProducerApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.MaggoooConsumerApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.MaggoooZuulApplication" />
+    <list>
+      <item itemvalue="Application.MaggoooAdminApplication" />
+      <item itemvalue="Application.MaggoooConsumerApplication" />
+      <item itemvalue="Application.MaggoooMonitorApplication" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.MaggoooZuulApplication" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.MaggoooProducerApplication" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.MaggoooConsumerApplication" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.MaggoooAdminApplication" />
-        <item index="4" class="java.lang.String" itemvalue="Spring Boot.MaggoooMonitorApplication" />
+      <list>
+        <item itemvalue="Application.MaggoooAdminApplication" />
+        <item itemvalue="Application.MaggoooMonitorApplication" />
+        <item itemvalue="Application.MaggoooConsumerApplication" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1077,8 +796,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maggooo项目" />
@@ -1091,20 +818,24 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.13/spring-core-5.3.13.jar!/org/springframework/cglib/proxy/MethodProxy.class</url>
           <line>101</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="kaptcha" />
+        <watch expression="menuTrees.get(0).children" />
+        <watch expression="menuTrees.get(0).children" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/vo/LoginBean.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/vo/LoginBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
@@ -1119,28 +850,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/SysUserService.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/SysUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/generatorConfig.xml">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/resources/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/impl/SysUserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/service/user/impl/SysUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtUserDetails.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtUserDetails.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
@@ -1168,21 +899,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/user/SysUserController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/user/SysUserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticationProvider.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticationProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysRoleMenu.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/model/SysRoleMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1210,7 +941,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticatioToken.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/JwtAuthenticatioToken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-328">
           <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
@@ -1231,42 +962,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/GrantedAuthorityImpl.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/GrantedAuthorityImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/JwtTokenUtils.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/JwtTokenUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/UserDetailsServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/security/UserDetailsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/SysLoginController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/controller/SysLoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/SecurityUtils.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/util/SecurityUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="61" />
@@ -2432,7 +2163,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/resources/banner.txt">
+    <entry file="file://$PROJECT_DIR$/maggooomonitor/src/main/resources/banner.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="42" />
@@ -2440,7 +2171,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooomonitor/pom.xml">
+    <entry file="file://$PROJECT_DIR$/maggooomonitor/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
@@ -2448,7 +2179,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/maggooomonitor/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="48" />
@@ -2456,7 +2187,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/pom.xml">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="135" column="27" lean-forward="false" selection-start-line="124" selection-start-column="3" selection-end-line="135" selection-end-column="27" />
@@ -2464,7 +2195,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
@@ -2472,7 +2203,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooadmin/src/main/java/com/louis/maggooo/admin/MaggoooAdminApplication.java">
+    <entry file="file://$PROJECT_DIR$/maggoooadmin/src/main/java/com/louis/maggooo/admin/MaggoooAdminApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
@@ -2483,7 +2214,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooomonitor/src/main/java/com/louis/MaggoooMonitorApplication.java">
+    <entry file="file://$PROJECT_DIR$/maggooomonitor/src/main/java/com/louis/MaggoooMonitorApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -2495,7 +2226,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/RebbonHelloController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/controller/RebbonHelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -2503,7 +2234,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/RibbonHelloController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/RibbonHelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -2511,7 +2242,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/ServiceController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/ServiceController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
@@ -2548,7 +2279,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/RibbonServiceController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/RibbonServiceController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="52" />
@@ -2558,7 +2289,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/controller/FeignServiceController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/controller/FeignServiceController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
@@ -2570,7 +2301,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/MaggooProducerService.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/service/MaggooProducerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
@@ -2580,7 +2311,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/service/impl/MaggoooProducerHystrix.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/service/impl/MaggoooProducerHystrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
@@ -2591,7 +2322,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
@@ -2599,7 +2330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/maggoooproducer/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
@@ -2607,7 +2338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/controller/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
@@ -2619,7 +2350,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
           <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="29" />
@@ -2627,7 +2358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/maggoooproducer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="112" selection-end-column="12" />
@@ -2635,7 +2366,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java">
+    <entry file="file://$PROJECT_DIR$/maggoooproducer/src/main/java/com/louis/MaggoooProducerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="16" column="5" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
@@ -2646,7 +2377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
@@ -2654,7 +2385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java">
+    <entry file="file://$PROJECT_DIR$/maggoooconsumer/src/main/java/com/louis/MaggoooConsumerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -2662,7 +2393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java">
+    <entry file="file://$PROJECT_DIR$/maggooozuul/src/main/java/com/louis/MaggoooZuulApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -2674,7 +2405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/maggooozuul/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -2682,7 +2413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../maggooo/maggooozuul/pom.xml">
+    <entry file="file://$PROJECT_DIR$/maggooozuul/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />

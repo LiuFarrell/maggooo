@@ -1,0 +1,6 @@
+com\louis\service\impl\MaggoooProducerHystrix.class
+com\louis\service\MaggooProducerService.class
+com\louis\controller\FeignServiceController.class
+com\louis\controller\ServiceController.class
+com\louis\controller\RibbonServiceController.class
+com\louis\MaggoooConsumerApplication.class

@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../maggooo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggoooadmin" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggooocommon" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggoooconsumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggooocore" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggooomonitor" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggoooproducer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../maggooo/maggooozuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooadmin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooadmin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooadmin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocommon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocommon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooconsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooconsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooocore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooomonitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooomonitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooomonitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooproducer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooproducer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggoooproducer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooozuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooozuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maggooozuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

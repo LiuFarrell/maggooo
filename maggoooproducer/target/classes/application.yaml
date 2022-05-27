@@ -1,0 +1,23 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: maggooo-producer
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+  boot:
+    admin:
+      client:
+        url: "http://localhost:8000"
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always

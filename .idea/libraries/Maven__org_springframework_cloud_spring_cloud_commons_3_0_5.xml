@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-commons:3.0.5">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5.jar!/" />
+      <root url="jar://D:/Liu/apache-maven-3.3.9-bin/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5-javadoc.jar!/" />
+      <root url="jar://D:/Liu/apache-maven-3.3.9-bin/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5-sources.jar!/" />
+      <root url="jar://D:/Liu/apache-maven-3.3.9-bin/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-commons/3.0.5/spring-cloud-commons-3.0.5-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

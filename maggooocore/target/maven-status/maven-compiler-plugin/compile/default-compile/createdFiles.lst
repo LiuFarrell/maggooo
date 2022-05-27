@@ -1,0 +1,10 @@
+com\louis\maggooo\core\exception\MangoException.class
+com\louis\maggooo\core\page\PageResult.class
+com\louis\maggooo\core\MaggoooCoreApplication.class
+com\louis\maggooo\core\http\HttpResult.class
+com\louis\maggooo\core\service\CurdService.class
+com\louis\maggooo\core\page\MybatisPageHelper.class
+com\louis\maggooo\core\page\PageRequest$PageRequestBuilder.class
+com\louis\maggooo\core\page\PageResult$PageResultBuilder.class
+com\louis\maggooo\core\page\PageRequest.class
+com\louis\maggooo\core\http\HttpStatus.class
